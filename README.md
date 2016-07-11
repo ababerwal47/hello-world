@@ -1,2 +1,5 @@
 # hello-world
-my first repo
+hi world 
+how are u
+this is my first project on github
+and i am happy
